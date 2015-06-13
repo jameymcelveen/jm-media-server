@@ -1,4 +1,4 @@
-# <img src='jmLogo.svg' style='height:1.25em;width:1.25em;vertical-align:middle;' alt='(jm)'> Media Server
+# ![(jm)](jmLogo@25px.png) Media Server
 
 I hope that I can build a media server for my house using Raspberry PI 2.
 
